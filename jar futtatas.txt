@@ -1,0 +1,4 @@
+﻿java -cp Sudoku-progkornyre-1.0.jar  beadando.NewJFrame
+
+maven futtatás: mvn exec:java -Dexec.mainClass=beadando.NewJFrame
+
